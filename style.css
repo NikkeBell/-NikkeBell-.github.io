@@ -14,19 +14,19 @@ body {
 
 p{
   border: 1px solid #fc8550;
-font-size: 30px;
+font-size: 25px;
 color: #fc8550; 
 background: #193364;
 
 }
 
 h1{ background: #343f68;
-font-size: 20px;
+font-size: 10px;
 }
 
 
 h2{ background: #735163;
-font-size: 30px;
+font-size: 20px;
 border: #193364;
 }
 
@@ -39,7 +39,7 @@ color: #fc8550
 
 a {
   color: orange;
-  font-size: 25px;
+  font-size: 15px;
 }
 
 a:hover {
