@@ -14,7 +14,7 @@ body {
 
 p{
   border: 1px solid #fc8550;
-font-size: 40px;
+font-size: 30px;
 color: #fc8550; 
 background: #193364;
 
@@ -34,7 +34,7 @@ a2:hover {
 }
 
 h2{ background: #735163;
-font-size: 40px;
+font-size: 30px;
 border: #193364;
 }
 
@@ -47,7 +47,7 @@ color: #fc8550
 
 a {
   color: orange;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 a:hover {
