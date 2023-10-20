@@ -21,12 +21,12 @@ background: #193364;
 }
 
 h1{ background: #343f68;
-font-size: 20px;
+font-size: 25px;
 }
 
 
 h2{ background: #735163;
-font-size: 20px;
+font-size: 25px;
 border: #193364;
 }
 
@@ -39,7 +39,7 @@ color: #fc8550
 
 a {
   color: orange;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 a:hover {
